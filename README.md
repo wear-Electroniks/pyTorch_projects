@@ -10,4 +10,4 @@ This repository contains several python notebook files that includes various sop
 
 **Transformers_Generating_Blog_Posts.ipynb, sentiment_analysis_python.ipynb, NLP_techniques_methods.ipynb** contain various NLP techniques including fundamental to complex
 
-**TAuto_Encoder_predicted_Moa.ipynb**T contains supervised learning method for predicting multiple labels of proteins for particular drug. The supervised method contains two autoencoders. In first stage, efficent low-dimensional features are extracted from genes and cell data. Whereas in second stage, autoencoder is used to predict multiple protein targets or (mechanisim of action) for various drugs.
+**Auto_Encoder_predicted_Moa.ipynb**T contains supervised learning method for predicting multiple labels of proteins for particular drug. The supervised method contains two autoencoders. In first stage, efficent low-dimensional features are extracted from genes and cell data. Whereas in second stage, autoencoder is used to predict multiple protein targets or (mechanisim of action) for various drugs.
