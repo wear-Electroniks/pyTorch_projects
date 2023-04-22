@@ -8,4 +8,4 @@ This repository contains several python notebook files that includes various sop
 
 **finalized_assignment.ipynb** contains various computer vision and image generative models such as Autoencoder and GAN.
 
-**Transformers_Generating_Blog_Posts.ipynb, sentiment_analysis_python.ipynb, nnn** contain various NLP techniques including fundamental to complex
+**Transformers_Generating_Blog_Posts.ipynb, sentiment_analysis_python.ipynb, NLP_techniques_methods.ipynb** contain various NLP techniques including fundamental to complex
